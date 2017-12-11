@@ -7,6 +7,6 @@ public class CalculadoraDeEstoque {
         double soma = livroJava8 + livroTDD;
 
         System.out.println("O total em estoque é "+soma);
-
+        System.out.println("Nova Mensagem no Código. Teste Commit");
     }
 }
